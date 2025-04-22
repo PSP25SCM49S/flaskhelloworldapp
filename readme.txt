@@ -2,7 +2,7 @@ Step1: Download and Install Docker from https://www.docker.com/
 NOTE: MAKE SURE TO INSTALL DOCKER VERSION GREATER THAN OR EQUAL TO 20.10.12 AND TO CHECK DOCKER VERSION GO TO CMD TERMINAL AND TYPE "docker -- version"
 
 Step2: Download and Install GCloud SDK from https://cloud.google.com/sdk/docs/install
- 
+
 step3: Steps to create Gcloud Project
       a. Visit https://console.cloud.google.com/
       b. Login to Google Cloud Platform with a personal email ID. Do not use your hawk email ID as this would restrict configurations in further steps. 
@@ -90,6 +90,7 @@ Step 11 : Verify Your Automatic Builds
         4.git push 
       d. Open your cloud build
       e. Refresh the same url. You will see updated your builds something like this:
+
  
 
 
